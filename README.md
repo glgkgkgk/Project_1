@@ -18,7 +18,7 @@
 <ol>
 <li>DB 사용 X </li>
 <li>CLI를 이용해 구현</li>
- <li>UML사용 (Use Case Diagram, Class Diagramm,Sequence Diagram)</li>
+ <li>UML사용 (Use Case Diagram, Class Diagram,Sequence Diagram)</li>
   </ol>
   
 ## 담당 파트
