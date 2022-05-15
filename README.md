@@ -35,23 +35,22 @@
 
 
 
-
-
-
 ## 실행화면
 ### 회원 추가
-
+![1  회원 추가](https://user-images.githubusercontent.com/105259159/168470021-122dacd8-79be-4e46-9a1a-d6af17dddae8.png)
 
 ### 회원 리스트
-
+![3  회원 리스트](https://user-images.githubusercontent.com/105259159/168470012-3bce2d3b-a398-4024-a56a-7ed584f0e611.png)
 
 ### 회원 정보수정
-
+![4-2  회원정보 수정](https://user-images.githubusercontent.com/105259159/168470050-f8f3b0a6-a21d-4cd4-9297-c1f39a90c3d6.png)
 
 ### 회원 삭제
+![2회원삭제](https://user-images.githubusercontent.com/105259159/168470055-3e366fa0-f44b-4994-a485-3182c019e8ef.png)
 
 
 ### 종료
+![5  종료](https://user-images.githubusercontent.com/105259159/168470062-4171dd33-59f8-4910-9026-2d1342b199f7.png)
 
 
 ## 개선사항
